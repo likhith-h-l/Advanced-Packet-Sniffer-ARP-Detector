@@ -44,43 +44,43 @@ A professional-grade **Python-based Network Security Monitoring Platform** featu
 
 ## ARP Detection
 
-![ARP Detection](assets/arp_detection.png)
+![ARP Detection](arp_detection.png)
 
 ---
 
 ## TCP Packet Capture
 
-![TCP Capture](assets/tcp_capture.png)
+![TCP Capture](tcp_capture.png)
 
 ---
 
 ## UDP Packet Capture
 
-![UDP Capture](assets/udp_capture.png)
+![UDP Capture](udp_capture.png)
 
 ---
 
 ## ICMP Packet Capture
 
-![ICMP Capture](assets/icmp_capture.png)
+![ICMP Capture](icmp_capture.png)
 
 ---
 
 ## IPv6 Packet Capture
 
-![IPv6 Capture](assets/ipv6_capture.png)
+![IPv6 Capture](ipv6_capture.png)
 
 ---
 
 ## Report Export
 
-![Report Export](assets/report_export.png)
+![Report Export](report_export.png)
 
 ---
 
 ## System Architecture
 
-![Architecture](assets/architecture.png)
+![Architecture](architecture.png)
 
 ---
 
