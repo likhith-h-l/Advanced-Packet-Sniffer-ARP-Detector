@@ -26,7 +26,7 @@ A professional-grade, multi-threaded packet capture and network security monitor
 
 | Dashboard | ARP Detection |
 |-----------|---------------|
-| <img src="assets/dashboard.png" width="450"> | <img src="assets/arp_detection.png" width="450"> |
+|<img src="assets/dashboard.png" width="450">|
 
 | TCP Capture | UDP Capture |
 |-------------|-------------|
