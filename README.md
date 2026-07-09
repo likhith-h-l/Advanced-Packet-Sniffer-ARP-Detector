@@ -22,18 +22,23 @@ A professional-grade, multi-threaded packet capture and network security monitor
 6. **`report_generator.py`**: Dynamically maps and exports captured packet and alert structures to standardized CSV formats.
 7. **`gui/dashboard.py`**: Thread-safe presentation layer orchestrating the sniffer, detector, detailed packet views, and live data telemetry.
 
-## Dashboard
-### SOC Dashboard
-![SOC Dashboard](assets/dashboard.png)
-### Live Traffic Capture
-![TCP Packet Capture](assets/tcp_capture.png)
-![UDP Packet Capture](assets/udp_capture.png)
-![ICMP Packet Capture](assets/icmp_capture.png)
-![IPv6 Packet Capture](assets/ipv6_capture.png)
-### Security Alerts
-![ARP Alerts](assets/arp_detection.png)
-### Reports
-![Report](assets/report_export.png)
+## 📸 Dashboard Screenshots
+
+| Dashboard | ARP Detection |
+|-----------|---------------|
+| <img src="assets/dashboard.png" width="450"> | <img src="assets/arp_detection.png" width="450"> |
+
+| TCP Capture | UDP Capture |
+|-------------|-------------|
+| <img src="assets/tcp_capture.png" width="450"> | <img src="assets/udp_capture.png" width="450"> |
+
+| ICMP Capture | IPv6 Capture |
+|--------------|--------------|
+| <img src="assets/icmp_capture.png" width="450"> | <img src="assets/ipv6_capture.png" width="450"> |
+
+| Report Export | Architecture |
+|---------------|--------------|
+| <img src="assets/report_export.png" width="450"> | <img src="assets/architecture.png" width="450"> |
 
 ## Installation
 
