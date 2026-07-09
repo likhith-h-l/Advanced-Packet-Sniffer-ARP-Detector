@@ -38,7 +38,7 @@ A professional-grade **Python-based Network Security Monitoring Platform** featu
 
 ## Dashboard
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
