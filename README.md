@@ -1,15 +1,62 @@
-# 🛡️ Advanced Packet Sniffer & ARP Threat Detection System
+<h1 align="center">
+🛡️ Advanced Packet Sniffer & ARP Threat Detection System
+</h1>
 
-A professional-grade **Python-based Network Security Monitoring Platform** featuring real-time packet capture, protocol analysis, ARP spoofing detection, and a modern SOC dashboard built with **CustomTkinter**.
+<p align="center">
+A Professional Python-based Network Security Monitoring Platform featuring
+Real-Time Packet Capture, Protocol Analysis, ARP Spoofing Detection,
+and an Interactive Security Operations Center (SOC) Dashboard.
+</p>
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Scapy](https://img.shields.io/badge/Scapy-Networking-green.svg)
+![CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-blueviolet.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+</p>
 
 ---
 
-## ✨ Features
+# 🛠️ Technologies Used
+
+- Python
+- Scapy
+- CustomTkinter
+- Threading
+- Socket Programming
+- CSV Processing
+- Network Packet Analysis
+- Network Protocols (TCP, UDP, ICMP, IPv4, IPv6, ARP)
+- Real-Time Traffic Monitoring
+- Cybersecurity & Network Defense
+
+---
+
+# 🎯 Skills Demonstrated
+
+- Network Traffic Analysis
+- Deep Packet Inspection (DPI)
+- ARP Spoofing Detection
+- Threat Detection & Monitoring
+- Security Operations Center (SOC) Concepts
+- Python Application Development
+- GUI Development using CustomTkinter
+- Multi-threaded Programming
+- Logging & Report Generation
+- Network Security Fundamentals
+- Incident Detection & Response
+- Secure Software Development
+
+---
+
+# ✨ Features
 
 - 📡 Real-Time Network Packet Capture
 - 🌐 Supports IPv4, IPv6, TCP, UDP, ICMP, and ARP
 - 🛡️ Real-Time ARP Spoofing Detection
-- 📊 Live SOC Dashboard
+- 📊 Interactive SOC Dashboard
 - 🚨 Dynamic Threat Level Indicator
 - 🔍 Live Packet Search & Filtering
 - 📈 Top Source & Destination IP Analysis
@@ -24,13 +71,13 @@ A professional-grade **Python-based Network Security Monitoring Platform** featu
 
 | Module | Description |
 |---------|-------------|
-| `main.py` | Application entry point |
-| `packet_sniffer.py` | Real-time packet capture using Scapy |
-| `packet_analyzer.py` | Protocol parsing and packet analysis |
-| `arp_detector.py` | ARP spoofing detection engine |
-| `logger_manager.py` | Logging and alert management |
-| `report_generator.py` | CSV report generation |
-| `gui/dashboard.py` | CustomTkinter SOC Dashboard |
+| `main.py` | Application Entry Point |
+| `packet_sniffer.py` | Packet Capture Engine using Scapy |
+| `packet_analyzer.py` | Deep Packet Inspection |
+| `arp_detector.py` | ARP Spoofing Detection |
+| `logger_manager.py` | Logging & Alert Management |
+| `report_generator.py` | CSV Report Generation |
+| `gui/dashboard.py` | SOC Dashboard GUI |
 
 ---
 
@@ -89,7 +136,7 @@ A professional-grade **Python-based Network Security Monitoring Platform** featu
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/Advanced_Packet_Sniffer_ARP_Detector.git
+git clone https://github.com/likhith-h-l/Advanced_Packet_Sniffer_ARP_Detector.git
 cd Advanced_Packet_Sniffer_ARP_Detector
 ```
 
@@ -115,7 +162,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## Run Application
+## Run the Application
 
 ```bash
 python main.py
@@ -242,13 +289,25 @@ Advanced_Packet_Sniffer_ARP_Detector/
 
 # 🚀 Future Improvements
 
-- SIEM Integration (Splunk, ELK, Sentinel)
+- SIEM Integration (Splunk, ELK, Microsoft Sentinel)
 - HTTP / HTTPS / DNS Inspection
+- PCAP File Import & Analysis
 - Machine Learning-based Threat Detection
-- PCAP Import & Analysis
 - Email Alert Notifications
 - Geo-IP Mapping
-- Dark/Light Theme Support
+- Threat Intelligence Integration
+- Dashboard Analytics & Charts
+- Dark / Light Theme Support
+
+---
+
+# 👨‍💻 Author
+
+**Likhith H L**
+
+Cybersecurity Student | AI-Integrated SOC Analyst | Cloud Security Enthusiast
+
+🔗 GitHub: https://github.com/likhith-h-l
 
 ---
 
@@ -262,4 +321,6 @@ This project is licensed under the **MIT License**.
 
 This project is intended **only for educational purposes and authorized security testing**.
 
-Always obtain permission before monitoring or capturing network traffic.
+Always obtain proper authorization before capturing or monitoring network traffic.
+
+Unauthorized packet sniffing may violate organizational policies or applicable laws.
