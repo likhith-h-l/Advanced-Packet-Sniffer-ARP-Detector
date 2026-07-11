@@ -103,13 +103,13 @@ and an Interactive Security Operations Center (SOC) Dashboard.
 
 ## UDP Packet Capture
 
-![UDP Capture](udp_capture.png)
+![UDP Capture]( udp_capture.png)
 
 ---
 
 ## ICMP Packet Capture
 
-![ICMP Capture](icmp_capture.png)
+![ICMP Capture](  icmp_capture.png)
 
 ---
 
