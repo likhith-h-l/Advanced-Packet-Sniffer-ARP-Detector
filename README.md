@@ -121,7 +121,7 @@ and an Interactive Security Operations Center (SOC) Dashboard.
 
 ## Report Export
 
-![Report Export](assest/report_export.png)
+![Report Export](report_export.png)
 
 ---
 
