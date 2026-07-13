@@ -70,7 +70,7 @@ def generate_csv_report(packets: List[Dict[str, Any]]) -> str:
         raise
     except Exception as exc:
         # Any I/O problem should not crash the app – propagate a friendly message.
-        print(f"[REPORT] Failed to write CSV report: {exc}")
+       
         raise
 
     return report_path
