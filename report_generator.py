@@ -108,7 +108,7 @@ def generate_alerts_report(alerts: List[Dict[str, Any]]) -> str:
         print(f"[REPORT] Permission denied writing alerts CSV report. Is the file open? Error: {exc}")
         raise
     except Exception as exc:
-       
+        print(f"[REPORT] Failed to write alerts CSV report: {exc}")
         raise
 
     return report_path
